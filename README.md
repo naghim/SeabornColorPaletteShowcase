@@ -1,6 +1,8 @@
-![Seaborn Color Palette Showcase](banner.png)
+[![Seaborn Color Palette Showcase](banner.png)](All_color_palettes.pdf)
 
 This repository includes nearly all built-in color palettes available for use in your plots. I have compiled a comprehensive list and showcase to save you the time and effort of searching for them each time you need to use them.
+
+[![Examples](examples.png)](All_color_palettes.pdf)
 
 Check out the palettes here: [All_color_palettes.pdf](All_color_palettes.pdf) & [All_color_palettes.png](All_color_palettes.png).
 
